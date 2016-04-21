@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-training.iml" filepath="$PROJECT_DIR$/Android-training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lock/Lock.iml" filepath="$PROJECT_DIR$/Lock/Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshRecyclerview/SwipeRefreshRecyclerview.iml" filepath="$PROJECT_DIR$/SwipeRefreshRecyclerview/SwipeRefreshRecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devicemanagert/devicemanagert.iml" filepath="$PROJECT_DIR$/devicemanagert/devicemanagert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/installapp/installapp.iml" filepath="$PROJECT_DIR$/installapp/installapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerView/recyclerView.iml" filepath="$PROJECT_DIR$/recyclerView/recyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiperefreshendless/swiperefreshendless.iml" filepath="$PROJECT_DIR$/swiperefreshendless/swiperefreshendless.iml" />
+    </modules>
+  </component>
+</project>
